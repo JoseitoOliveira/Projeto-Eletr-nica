@@ -1,0 +1,85 @@
+18672707689253
+Connector_DIN
+DIN41612_B2_2x8_Horizontal
+DIN 41612 connector, type B/2, horizontal, 16 pins wide, 2 rows, even columns
+DIN 41512 IEC 60603 B/2
+0
+16
+16
+Connector_DIN
+DIN41612_B2_2x8_Vertical
+DIN 41612 connector, type B/2, vertical, 16 pins wide, 2 rows, even columns
+DIN 41512 IEC 60603 B/2
+0
+16
+16
+Connector_DIN
+DIN41612_B2_2x16_Horizontal
+DIN 41612 connector, type B/2, horizontal, 16 pins wide, 2 rows, full configuration
+DIN 41512 IEC 60603 B/2
+0
+32
+32
+Connector_DIN
+DIN41612_B2_2x16_Vertical
+DIN 41612 connector, type B/2, vertical, 16 pins wide, 2 rows, full configuration
+DIN 41512 IEC 60603 B/2
+0
+32
+32
+Connector_DIN
+DIN41612_B3_2x5_Horizontal
+DIN 41612 connector, type B/3, horizontal, 10 pins wide, 2 rows, even columns
+DIN 41512 IEC 60603 B/3
+0
+10
+10
+Connector_DIN
+DIN41612_B3_2x5_Vertical
+DIN 41612 connector, type B/3, vertical, 10 pins wide, 2 rows, even columns
+DIN 41512 IEC 60603 B/3
+0
+10
+10
+Connector_DIN
+DIN41612_B3_2x10_Horizontal
+DIN 41612 connector, type B/3, horizontal, 10 pins wide, 2 rows, full configuration
+DIN 41512 IEC 60603 B/3
+0
+20
+20
+Connector_DIN
+DIN41612_B3_2x10_Vertical
+DIN 41612 connector, type B/3, vertical, 10 pins wide, 2 rows, full configuration
+DIN 41512 IEC 60603 B/3
+0
+20
+20
+Connector_DIN
+DIN41612_B_2x16_Horizontal
+DIN 41612 connector, type B, horizontal, 32 pins wide, 2 rows, even columns
+DIN 41512 IEC 60603 B
+0
+32
+32
+Connector_DIN
+DIN41612_B_2x16_Vertical
+DIN 41612 connector, type B, vertical, 32 pins wide, 2 rows, even columns
+DIN 41512 IEC 60603 B
+0
+32
+32
+Connector_DIN
+DIN41612_B_2x32_Horizontal
+DIN 41612 connector, type B, horizontal, 32 pins wide, 2 rows, full configuration
+DIN 41512 IEC 60603 B
+0
+64
+64
+Connector_DIN
+DIN41612_B_2x32_Vertical
+DIN 41612 connector, type B, vertical, 32 pins wide, 2 rows, full configuration
+DIN 41512 IEC 60603 B
+0
+64
+64
